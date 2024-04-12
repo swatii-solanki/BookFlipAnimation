@@ -16,8 +16,14 @@ The project consists of four main files:
 4. **BookCoverFront.kt**: This file contains the `BookCoverFront` composable, which represents the front of the card. It contains an image and a shadow that give the illusion of depth.
 5. **BookCoverBack.kt**: This file contains the `BookCoverBack` composable, which represents the back of the card. It contains an image and some text that are displayed when the card is flipped.
 
-![book_flip_animation](https://github.com/swatii-solanki/BookFlipAnimation/assets/43872077/026829a0-09a9-435e-b549-a5e8ef13e5af)
+![book_flip_animation](https://github.com/swatii-solanki/BookFlipAnimation/assets/43872077/c0315d8f-e350-4925-9cf5-2d6242b509c8)
 
 ## Conclusion
 
 This project demonstrates how to implement a book flip animation in Compose Android. It uses the `graphicsLayer` API to rotate the card on the Y-axis, creating a 3D effect.
+
+</br>
+</br>
+
+> Note: This project was inspired by https://github.com/Roaa94/flutter_airbnb_ui
+
